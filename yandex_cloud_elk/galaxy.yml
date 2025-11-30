@@ -1,0 +1,18 @@
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+  - Student (@student)
+description: Custom collection with file creation module
+license:
+  - GPL-3.0-or-later
+tags:
+  - file
+  - creation
+  - custom
+dependencies: {}
+repository: https://github.com/SERMSN/my_own_collection
+documentation: https://github.com/SERMSN/my_own_collection
+homepage: https://github.com/SERMSN/my_own_collection
+issues: https://github.com/SERMSN/my_own_collection/issues
